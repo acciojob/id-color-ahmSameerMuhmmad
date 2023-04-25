@@ -6,7 +6,8 @@
         #red{
             background: red;
             border: 3px solid black;
-        }#green{
+        }
+#green{
             background: green;
             border: 3px solid yellow;
         }
